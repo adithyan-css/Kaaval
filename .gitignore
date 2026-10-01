@@ -1,0 +1,23 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+kaaval.db
+
+# start.sh server logs
+.run/
+
+# Node
+node_modules/
+frontend/.next/
+frontend/out/
+sdk/dist/
+sdk/node_modules/
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
+.venv/
